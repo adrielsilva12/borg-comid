@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding: 0;
+background-color: #510000;
+}.n{
+    text-align: center;
+background-color: white;
+justify-content: center;
+width: 1600px;
+
+}.o{
+background-color: white;
+}button{
+    background-color: white;
+}.ee{
+
+    width: 100vw;
+}
